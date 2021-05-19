@@ -12,6 +12,7 @@ for _ in range(n):
                 break
     if check == 0:
         cnt += 1
+
 print(cnt)
 
 ## 다른 사람 풀이 (1등)
