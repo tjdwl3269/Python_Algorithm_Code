@@ -89,5 +89,5 @@
 * Handling Recursion Limit
 
 
-* resource https://github.com/ndb796/Python-Competitive-Programming-Team-Notes
+resource https://github.com/ndb796/Python-Competitive-Programming-Team-Notes
 
