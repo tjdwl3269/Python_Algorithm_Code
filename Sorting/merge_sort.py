@@ -1,4 +1,4 @@
-''' Merge_Sort '''
+''' merge sort '''
 
 def merge(p, q, r):
     global arr
