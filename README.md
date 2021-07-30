@@ -87,3 +87,7 @@
     * [Fenwick Tree (Binary Indexed Tree)](/Miscellaneous/fenwick_tree.py)
 * [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
 * Handling Recursion Limit
+
+
+* resource https://github.com/ndb796/Python-Competitive-Programming-Team-Notes
+
