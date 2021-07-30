@@ -87,7 +87,7 @@
 * Handling Recursion Limit
 
 ### Lowest Common Ancestor
-* [LCA](/Lowest Common Ancestor/LCA.py)
+* [LCA](/Lowest%20Common%20Ancestor/LCA.py)
 
 resource https://github.com/ndb796/Python-Competitive-Programming-Team-Notes
 
