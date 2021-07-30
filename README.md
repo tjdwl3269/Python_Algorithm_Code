@@ -7,7 +7,7 @@
 
 * [Selection Sort](/Sorting/selection_sort.py)
 * [Insertion Sort](/Sorting/insertion_sort.py)
-* [Merge_Sort](/Sorting/merge_sort.py)
+* [Merge Sort](/Sorting/merge_sort.py)
 * [Quick Sort](/Sorting/quick_sort.py)
 * [Counting Sort](/Sorting/counting_sort.py)
 * [Python Sort Library](/Sorting/python_sort_library.py)
